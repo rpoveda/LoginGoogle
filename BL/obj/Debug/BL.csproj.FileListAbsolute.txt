@@ -1,0 +1,7 @@
+c:\users\rpoveda\documents\visual studio 2010\Projects\_LoginGoogle\BL\bin\Debug\BL.dll
+c:\users\rpoveda\documents\visual studio 2010\Projects\_LoginGoogle\BL\bin\Debug\BL.pdb
+c:\users\rpoveda\documents\visual studio 2010\Projects\_LoginGoogle\BL\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rpoveda\documents\visual studio 2010\Projects\_LoginGoogle\BL\obj\Debug\BL.dll
+c:\users\rpoveda\documents\visual studio 2010\Projects\_LoginGoogle\BL\obj\Debug\BL.pdb
+c:\users\rpoveda\documents\visual studio 2010\Projects\_LoginGoogle\BL\bin\Debug\ML.dll
+c:\users\rpoveda\documents\visual studio 2010\Projects\_LoginGoogle\BL\bin\Debug\ML.pdb

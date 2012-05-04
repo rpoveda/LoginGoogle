@@ -1,0 +1,9 @@
+c:\users\rpoveda\documents\visual studio 2010\Projects\_LoginGoogle\UI\bin\UI.dll
+c:\users\rpoveda\documents\visual studio 2010\Projects\_LoginGoogle\UI\bin\UI.pdb
+c:\users\rpoveda\documents\visual studio 2010\Projects\_LoginGoogle\UI\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rpoveda\documents\visual studio 2010\Projects\_LoginGoogle\UI\obj\Debug\UI.dll
+c:\users\rpoveda\documents\visual studio 2010\Projects\_LoginGoogle\UI\obj\Debug\UI.pdb
+c:\users\rpoveda\documents\visual studio 2010\Projects\_LoginGoogle\UI\bin\BL.dll
+c:\users\rpoveda\documents\visual studio 2010\Projects\_LoginGoogle\UI\bin\ML.dll
+c:\users\rpoveda\documents\visual studio 2010\Projects\_LoginGoogle\UI\bin\BL.pdb
+c:\users\rpoveda\documents\visual studio 2010\Projects\_LoginGoogle\UI\bin\ML.pdb

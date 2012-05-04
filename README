@@ -1,0 +1,9 @@
+AUTENTICACAO GOOGLE -> Versao 1.0
+
+-----------------------
+Registrar a API do google no web.config nos seguintes campos:
+<appSettings>
+    <add key="redirect_uri" value="" />
+    <add key="client_id" value="" />
+</appSettings>
+---------------------
